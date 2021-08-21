@@ -1,0 +1,14 @@
+# Temp
+temp/
+Temp/
+TEMP/
+
+# 下层的其他git信息
+**/.git/
+**/.gitignore
+
+# 自身的ignore文件需要track
+!.gitignore
+
+# mac os
+.DS_Store
